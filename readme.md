@@ -1,8 +1,8 @@
-#Docker Playgroung
+# Docker Playgroung
 This solution is based on VirtualBox, Vagrant and Ansible. If You're working on Windows machine, this won't work.
 Ansible is not supporting Windows as control machines (http://docs.ansible.com/ansible/latest/intro_installation.html#control-machine-requirements).
 
-##Quick Start
+## Quick Start
 1. clone repository:
     ```
     git clone https://github.com/RafalEsp/docker-nodes.git
